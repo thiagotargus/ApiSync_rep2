@@ -17,6 +17,7 @@ namespace AgileESync
 
         public class Tabela
         {
+            //Teste Sync Rep2
             public string TABLE_NAME { get; set; }
         }
 

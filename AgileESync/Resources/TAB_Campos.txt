@@ -1,0 +1,2 @@
+*FLD:Tabela;A;100|Campo;A;100|CampoERP;A;100|Tipo;A;100|Tamanho;A;10|Precisao;A;10|MascaraERP;A;5000
+*PKY:Tabela|Campo

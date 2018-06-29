@@ -1,0 +1,2 @@
+﻿*FLD:Chave;A;200|Valor;A;200
+*PKY:Chave

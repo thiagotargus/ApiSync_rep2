@@ -1,0 +1,2 @@
+*FLD:TabelaNome;A;100|CampoNome;A;100|CampoTipo;A;1
+*PKY:TabelaNome|CampoNome|CampoTipo

@@ -1,0 +1,2 @@
+*FLD:TabelaNome;A;100|TabelaNomeERP;A;100|GatilhoNome;A;100|GatilhoScript;A;5000
+*PKY:TabelaNome

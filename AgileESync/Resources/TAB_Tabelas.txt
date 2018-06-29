@@ -1,0 +1,2 @@
+*FLD:Nome;A;100|NomeERP;A;100|Query;A;5000|Filtro;A;1000|Ordenacao;I;1000|Url;A;200|Descricao;A;200|Modulo;A;50
+*PKY:Nome
